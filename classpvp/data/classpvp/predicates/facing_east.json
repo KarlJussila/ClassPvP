@@ -1,0 +1,12 @@
+{
+	"condition": "minecraft:value_check",
+	"value": {
+		"type": "minecraft:score",
+		"target": "this",
+		"score": "x_rotation"
+	},
+	"range": {
+		"min": -135,
+		"max": -46
+	}
+}

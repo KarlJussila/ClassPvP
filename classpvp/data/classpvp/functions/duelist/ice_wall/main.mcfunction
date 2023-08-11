@@ -1,0 +1,2 @@
+execute at @e[type=stray, name="place_ice_wall"] run function classpvp:duelist/ice_wall/level_check
+execute as @e[type=marker, tag=ice_wall, scores={entity_timer=120..}] at @s run function classpvp:duelist/ice_wall/end

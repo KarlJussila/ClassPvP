@@ -1,0 +1,15 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:lightning_strike",
+			"conditions": {
+				"lightning": {
+					"nbt": "{Tags:[\"eldritch_smite\"]}"
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "classpvp:warlock/eldritch_smite/remove_mark"
+	}
+}

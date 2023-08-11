@@ -1,0 +1,1 @@
+item replace entity @p[team=assassin] hotbar.2 with light_blue_dye{display:{Name:'[{"text":"Blink","italic":false,"bold":true},{"text":" - [DROP]","italic":false,"bold":false}]'}}

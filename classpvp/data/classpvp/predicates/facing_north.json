@@ -1,0 +1,23 @@
+[
+	{
+		"condition": "minecraft:inverted",
+		"term": {
+			"condition": "minecraft:reference",
+			"name": "classpvp:facing_west"
+		}
+	},
+	{
+		"condition": "minecraft:inverted",
+		"term": {
+			"condition": "minecraft:reference",
+			"name": "classpvp:facing_south"
+		}
+	},
+	{
+		"condition": "minecraft:inverted",
+		"term": {
+			"condition": "minecraft:reference",
+			"name": "classpvp:facing_east"
+		}
+	}
+]

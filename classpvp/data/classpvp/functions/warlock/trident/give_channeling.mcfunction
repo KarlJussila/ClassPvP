@@ -1,0 +1,1 @@
+item replace entity @p[team=warlock] hotbar.0 with trident{Unbreakable:1,display:{Name:'[{"text":"Trident","italic":false,"color":"yellow","bold":true}]'},Enchantments:[{id:"minecraft:channeling",lvl:1s},{id:"minecraft:loyalty",lvl:3s}],HideFlags:5}

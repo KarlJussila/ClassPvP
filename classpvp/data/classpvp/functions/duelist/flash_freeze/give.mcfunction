@@ -1,0 +1,1 @@
+item replace entity @p[team=duelist] hotbar.3 with ice{display:{Name:'[{"text":"Flash ","italic":false,"color":"white","bold":true},{"text":"Freeze","color":"aqua"}]'}}

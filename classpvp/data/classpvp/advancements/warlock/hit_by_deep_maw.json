@@ -1,0 +1,24 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:entity_hurt_player",
+			"conditions": {
+				"damage": {
+					"type": {
+						"source_entity": {
+							"type": "minecraft:player",
+							"team": "warlock"
+						},
+						"direct_entity": {
+							"type": "minecraft:trident",
+							"nbt": "{Trident: {tag: {Enchantments: [{lvl: 3s, id:\"minecraft:loyalty\"}]}}}"
+						}
+					}
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "classpvp:warlock/channel/deep_maw/hit_by_deep_maw"
+	}
+}

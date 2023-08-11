@@ -1,0 +1,1 @@
+execute at @s as @e[type=arrow, distance=..5, tag=!flash_frozen] at @s run function classpvp:duelist/flash_freeze/init

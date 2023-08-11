@@ -1,0 +1,1 @@
+item replace entity @a[team=assassin] hotbar.3 with allium{display:{Name:'[{"text":"Dissipate","italic":false,"color":"gray","bold":true}]'}}

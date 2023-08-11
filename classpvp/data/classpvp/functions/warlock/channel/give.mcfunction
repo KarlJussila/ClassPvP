@@ -1,0 +1,1 @@
+item replace entity @p[team=warlock] hotbar.8 with ender_eye{display:{Name:'[{"text":"Channel","italic":false,"bold":true,"color":"blue"}]'}}

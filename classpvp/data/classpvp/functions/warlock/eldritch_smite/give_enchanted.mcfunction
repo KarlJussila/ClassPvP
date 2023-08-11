@@ -1,0 +1,1 @@
+item replace entity @p[team=warlock] hotbar.1 with amethyst_shard{display:{Name:'[{"text":"Eldritch Smite","italic":false,"color":"yellow","bold":true}]'},Enchantments:[{}]}

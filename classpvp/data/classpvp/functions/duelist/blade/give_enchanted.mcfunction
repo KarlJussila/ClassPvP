@@ -1,0 +1,1 @@
+item replace entity @p[team=duelist] hotbar.0 with iron_sword{Unbreakable:1,display:{Name:'[{"text":"Duelist\'s Blade","italic":false,"bold":true,"color":"gray"}]'},Enchantments:[{}],HideFlags:4}

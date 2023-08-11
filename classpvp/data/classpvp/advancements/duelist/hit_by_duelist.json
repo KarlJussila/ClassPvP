@@ -1,0 +1,23 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:entity_hurt_player",
+			"conditions": {
+				"damage": {
+					"blocked": false,
+					"source_entity": {
+						"type": "minecraft:player",
+						"nbt": "{SelectedItem: {id:\"minecraft:iron_sword\"}}",
+						"team": "duelist"
+					},
+					"type": {
+						"is_projectile": false
+					}
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "classpvp:duelist/hit_by_duelist"
+	}
+}

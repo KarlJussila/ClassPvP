@@ -1,0 +1,1 @@
+advancement revoke @s only classpvp:shared/struck_by_lightning

@@ -1,0 +1,1 @@
+item replace entity @s hotbar.8 with tipped_arrow{CustomPotionColor:8585417,display:{Name:'[{"text":"Execution Arrow","italic":false,"bold":true,"color":"dark_purple"}]'},Enchantments:[{}],CustomPotionEffects:[{Id:26,Duration:2,Amplifier:0}]}

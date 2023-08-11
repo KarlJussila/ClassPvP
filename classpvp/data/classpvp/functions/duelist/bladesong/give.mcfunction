@@ -1,0 +1,1 @@
+item replace entity @p[team=duelist] hotbar.8 with enchanted_book{Unbreakable:1,display:{Name:'[{"text":"Bladesong ","italic":false,"color":"white","bold":true},{"text":"- [DROP]","bold":false}]'},Enchantments:[{}],HideFlags:4}

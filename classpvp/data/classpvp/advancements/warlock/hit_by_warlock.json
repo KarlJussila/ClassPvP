@@ -1,0 +1,23 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:entity_hurt_player",
+			"conditions": {
+				"damage": {
+					"blocked": false,
+					"source_entity": {
+						"type": "minecraft:player",
+						"nbt": "{SelectedItem: {id:\"minecraft:trident\"}}",
+						"team": "warlock"
+					},
+					"type": {
+						"is_projectile": false
+					}
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "classpvp:warlock/hit_by_warlock"
+	}
+}

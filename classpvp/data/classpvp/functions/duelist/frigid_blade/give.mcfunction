@@ -1,0 +1,1 @@
+item replace entity @p[team=duelist] hotbar.2 with dragon_breath{display:{Name:'[{"text":"Frigid Blade ","italic":false,"color":"aqua","bold":true},{"text":"- [DROP]","bold":false}]'}}

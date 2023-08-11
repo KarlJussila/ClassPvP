@@ -1,0 +1,20 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:entity_hurt_player",
+			"conditions": {
+				"player": {
+					"nbt": "{Health:0f}"
+				},
+				"damage": {
+					"type": {
+						"is_lightning": true
+					}
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "classpvp:shared/killed_by_lightning"
+	}
+}
